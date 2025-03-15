@@ -2,7 +2,7 @@
 A simple and fun Tic Tac Toe game built with **Next.js** and **TailwindCSS**. Play against a friend and enjoy the classic game right in your browser.
 
 ## 🚀 Live Demo
-Check out the live version here: [Tic Tac Toe](https://tic-tac-toe.naaeem.com)
+Check out the live version here: [Tic Tac Toe](https://tic-tac-toe.naeem.im)
 
 ## 🛠️ Features
 - **Interactive Gameplay**: Classic 3x3 grid Tic Tac Toe.
